@@ -15,4 +15,17 @@ Es ist wichtig mit **https** zu clonen, da momentan keine Weiterleitung von http
 
 `git clone https://git.engers.dev/momo/biograph.git`
 
-`weitere Installation`
+
+Start local Server:
+
+`npm run serve`
+
+Build:
+
+`npm run build`
+
+Run eslint:
+
+`npm run lint`
+
+
