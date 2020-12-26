@@ -11,8 +11,9 @@
     "bootstrap": "^4.5.2",
     "bootstrap-vue": "^2.16.0",
     "core-js": "^3.6.5",
-    "d3": "^6.3.1",
+    "d3": "^5.15.0",
     "d3-dtree": "^2.4.1",
+    "fs": "0.0.1-security",
     "lodash": "^4.17.20",
     "vue": "^2.6.11",
     "vuedraggable": "^2.24.2"
