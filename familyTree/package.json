@@ -11,6 +11,9 @@
     "bootstrap": "^4.5.2",
     "bootstrap-vue": "^2.16.0",
     "core-js": "^3.6.5",
+    "d3": "^6.3.1",
+    "d3-dtree": "^2.4.1",
+    "lodash": "^4.17.20",
     "vue": "^2.6.11",
     "vuedraggable": "^2.24.2"
   },
@@ -19,8 +22,10 @@
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^6.2.2",
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-vue": "^7.3.0",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
