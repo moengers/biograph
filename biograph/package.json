@@ -1,0 +1,31 @@
+{
+  "name": "biograph",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx nodemon -r esm bin/www -e js,pug,json,css",
+    "lint": "npx eslint"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "bootstrap-icons": "^1.2.2",
+    "browserify": "^17.0.0",
+    "cookie-parser": "~1.4.4",
+    "d3": "^6.3.1",
+    "d3-dtree": "^2.4.1",
+    "debug": "~4.3.1",
+    "esm": "^3.2.25",
+    "express": "^4.16.1",
+    "http-errors": "~1.6.3",
+    "lodash": "^4.17.20",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.6",
+    "npm": "^6.14.10",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
